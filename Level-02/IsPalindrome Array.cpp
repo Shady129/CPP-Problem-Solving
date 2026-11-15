@@ -1,3 +1,28 @@
+/*
+Problem 001 — Palindrome Array
+
+Write a C++ program to check whether an array
+is a Palindrome.
+
+A Palindrome Array is an array that reads
+the same forward and backward.
+
+Requirements:
+1. Fill an array with predefined numbers.
+2. Print the array elements.
+3. Check whether the array is a Palindrome.
+4. Print the result.
+
+Example:
+
+Input:
+10 20 30 30 20 10
+
+Output:
+Yes array is Palindrome
+*/
+
+
 #include <iostream> 
 
 using namespace std;

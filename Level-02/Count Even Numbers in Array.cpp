@@ -21,11 +21,9 @@ using namespace std;
 
 int RandomNumber(int From, int To)
 {
-	int randNum = rand() % (From - To + 1) + From;
-
-	return randNum;
+    int randNum = rand() % (To - From + 1) + From;
+    return randNum;
 }
-
 
 
 

@@ -1,3 +1,19 @@
+/*
+Problem: MyFloor
+
+Write a C++ program that:
+
+1. Asks the user to enter a floating-point number.
+2. Creates a function called MyFloor to calculate
+   the floor value of the number.
+3. Returns the greatest integer less than or
+   equal to the given number.
+4. Prints the result using MyFloor.
+5. Prints the result using the built-in floor()
+   function for comparison.
+*/
+
+
 #include <iostream>
 
 using namespace std; 
